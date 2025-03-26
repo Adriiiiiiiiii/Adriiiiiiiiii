@@ -72,7 +72,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Adriiiiiiiiii/Adriiiiiiiiii/output/snake.svg](https://github.com/Adriiiiiiiiii/Adriiiiiiiiii/blob/1311775305bb2a814cedb13a988aca59e93f8702/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Adriiiiiiiiii/Adriiiiiiiiii/output/snake.svg" alt="Snake animation" />
 
 ###
 
