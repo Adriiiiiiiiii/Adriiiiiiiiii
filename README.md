@@ -1,4 +1,4 @@
-<h2 align="left">Hola! Soy Adrià Montero, técnico especializado en redes y sistemas con un enfoque en ciberseguridad.</h2>
+<h2 align="left">Hola! Soy Adrià, técnico especializado en redes y sistemas con un enfoque en ciberseguridad.</h2>
 
 ###
 
